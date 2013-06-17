@@ -1,0 +1,19 @@
+# Visual Studio user-specific state
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.ide/
+
+# Compiled output and caches
+[Bb]in/
+[Oo]bj/
+*.exe
+*.dll
+*.pdb
+*.cache
+*.tlog
+*.tmp
+
+# Locally generated files
+*.log
