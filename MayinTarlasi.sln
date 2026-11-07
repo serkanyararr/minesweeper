@@ -1,6 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+# Visual Studio Version 18
+VisualStudioVersion = 18.10.12210.168 stable
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MayinTarlasi", "MayinTarlasi\MayinTarlasi.csproj", "{40E66A9A-A4B0-4150-B920-18D1B491CA8B}"
 EndProject
 Global
